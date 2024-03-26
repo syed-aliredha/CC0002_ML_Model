@@ -11,6 +11,7 @@ First, we sourced our datasets: [ISOT Fake News Dataset](https://www.kaggle.com/
 4. Support Vector Machine
 5. Neural Network Architecture
 
+From our evaluation, we found that the neural network model works best. Therefore, we will be using this model for our Chrome extension. The detailed workthrough on how we trained our model can be found [here]().
 
  *To run the entire code, please download additionally the WELFake Dataset from kaggle. The link is in the Jupyter notebook
 
